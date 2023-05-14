@@ -54,7 +54,7 @@ export default function Home() {
                     <h2 className="card-title text-2xl font-sans">
                       Want to do busniess with us?
                     </h2>
-                    <p className="text-xl font-bold">
+                    <p>
                       Just ring us at (+447869821167 outside of the United Kingdom) and we will discuss the details with you! 
                       <br/>
                       You can also leave a voice message with your name and request and we will be in touch with you as soon as possible. 
