@@ -36,7 +36,7 @@ export default function Home() {
                 </div>
               </div>
               <div className="divider divider-vertical lg:divider-horizontal"></div>
-              <div className="flex w-1/2 justify-end sm:w-full">
+              <div className="flex w-full justify-end sm:w-full">
                 <div className="card w-full bg-base-100 shadow-xl flex-row">
                   <div className="card-body">
                     <h2 className="card-title">
